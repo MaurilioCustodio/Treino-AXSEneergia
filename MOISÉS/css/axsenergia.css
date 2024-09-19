@@ -1,0 +1,64 @@
+*{
+margin: 0;
+}
+
+header{
+    background-color:#21D788;
+    font-family: Arial;
+    font-size: 16px;
+    text-align: center;
+    margin: 0;
+    width: 100%;
+    padding-top: 20px;
+ }
+
+nav{
+    text-align: right;
+    font-weight: 500;
+    margin-right: 5%;
+    padding: 5px;
+}
+a{
+    text-decoration: none;
+    color: #5d5e69;
+    padding: 5px;
+    padding-top: 5rem;   
+}
+a:hover{
+   padding: 5px;
+   text-decoration: none;
+   text-decoration: underline #6c5af4; 
+   cursor: pointer;
+}
+
+#btn-cadastrar{
+background-color: #6c5af4;
+padding: 16px 54px;
+font-weight: 500;
+border-radius: 16px;
+border: 0;
+line-height: 19.2px;
+text-align: center;
+
+}
+
+#btn-cliente{
+background-color: #ffffff;   
+padding: 16px 54px;
+font-weight: 500;
+border-radius: 16px;
+border: 0;
+line-height: 19.2px;
+text-align: center;
+}
+
+.imagem-simbolo{
+   width: 14px; 
+}
+
+.flexbox-top{
+    display: flex;
+    width: 80%;
+    padding: 1rem;
+    }
+
